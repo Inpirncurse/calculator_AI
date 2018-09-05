@@ -1,0 +1,3 @@
+#!/bin/sh
+gcc demoCalculator.c -o program
+./program
